@@ -5,6 +5,7 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
+// // WarningWithContext 上下文日志记录
 func WarningWithContext(ctx *gin.Context, format string, opts ...interface{}) {
 	params := getCtxParamsLog(ctx)
 	fields := logrus.Fields{
