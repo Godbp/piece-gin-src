@@ -1,4 +1,4 @@
-module github.com/pengbo/piec-gin-src
+module godbp/piec-gin-src
 
 go 1.13
 
