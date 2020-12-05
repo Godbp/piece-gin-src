@@ -1,0 +1,12 @@
+.idea
+vendor
+rest
+.vscode
+config.json
+api/swagger/*
+!api/swagger/.gitkeep
+logs
+docs/*
+!docs/.gitkeep
+tmp/*
+.reproduced.html
