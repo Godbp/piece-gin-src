@@ -1,4 +1,4 @@
-module godbp/piec-gin-src
+module github.com/godbp/pieces-gin
 
 go 1.13
 
