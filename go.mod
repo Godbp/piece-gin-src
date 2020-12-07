@@ -1,4 +1,4 @@
-module github.com/godbp/pieces-gin
+module github.com/godbp/piece-gin-src
 
 go 1.13
 
