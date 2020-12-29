@@ -9,6 +9,7 @@ MAINTAINER Godbp
 
 ENV PATH /root/mysql/config
 
+# mysql config
 RUN mkdir -p /root/mysql/config
 RUN cd /root/mysql/config
 RUN touch mysql.config
