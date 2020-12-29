@@ -2,7 +2,6 @@
 vendor
 rest
 .vscode
-config.json
 api/swagger/*
 !api/swagger/.gitkeep
 logs
